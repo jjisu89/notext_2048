@@ -49,22 +49,22 @@ HTMLActuator.prototype.clearContainer = function (container) {
 var val2caption = function(val){
 
   const captions = [
-  "", 
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  "", 
-  "",
-  "",
-  "",
-  "",
-  "",
-  "",
-  ""];
+  " ", 
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ", 
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " "];
 
   // if(val <= 0) return "<span style='font-size:smaller'>Garbage</span>";
   // if(val == 1){
